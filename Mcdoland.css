@@ -1,0 +1,32 @@
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .footer-con {
+    margin-top: 150px;
+  }
+  .line {
+    width: 100%;
+    height: 1px;
+    background-color: rgb(79, 69, 69);
+    margin-top: 70px;
+  }
+  .footer1 {
+    margin: 70px 0px 100px 0px;
+  }
